@@ -45,18 +45,20 @@ function minimax(node, depth, isMaximizingPlayer, alpha, beta):
 
 This is the first page we see on the screen
 
-
-![image](https://user-images.githubusercontent.com/76108859/133998431-0cdfe3d0-3a94-4414-89e1-1b13e7548741.png)
+![image](https://user-images.githubusercontent.com/76108859/134028076-cec81ea2-375d-42e1-be2d-dcc2e28c947f.png)
 
 Lets play. The bot plays X and we play O.
 
-![image](https://user-images.githubusercontent.com/76108859/133998601-0d71aa85-5ec0-4b1c-92bf-988a84466c6e.png)
+
+![image](https://user-images.githubusercontent.com/76108859/134028225-013e73f9-3723-409b-9868-fa7519d78eac.png)
 
 
-![image](https://user-images.githubusercontent.com/76108859/133998742-e5f15f48-92a1-4bb9-b8aa-bd5b5d04de79.png)
+
+![image](https://user-images.githubusercontent.com/76108859/134028431-b39f246c-0984-4e7d-841c-9c3890cf4221.png)
 
 
-![image](https://user-images.githubusercontent.com/76108859/133998817-1405c791-0011-406d-b1fd-8f879f06d42f.png)
+![image](https://user-images.githubusercontent.com/76108859/134028543-56ad4fb1-e7a6-4d93-a2bc-bf0469f9ecc5.png)
+
 
 
 As you can see , its always the bot that wins!
